@@ -6,37 +6,37 @@
         "data": [
           {
             "type": "youtube",
-            "name": "Bài 1: Disney - Moana",
+            "name": "1 Disney - Moana",
             "videoId": "YGTiODqaoms",
             "link": "https://e304920c.content.disney.io/index.html?level=1&language=enus&character=1&gameProgress=&tutorialVideoProgress=A&audioOn=1&logoOn=0"
           },
           {
             "type": "card",
-            "description": "Bài 2: Beaver xây tổ trên sông",
+            "description": "2. Beaver",
             "imgLink": "https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2019/12/18155718/Beaver_activity_image1.png",
             "link": "https://app.codemonkey.com/beaver-achiever/hour-of-code/1"
           },
           {
             "type": "card",
-            "description": "Bài 3: Puppy - click dòng này rồi chọn play-now",
+            "description": "3. Puppy",
             "imgLink": "https://www.tynker.com/image/hour-of-code/2016/puppy-adventure/puppy-1.png?width=740&height=410&mode=contain&format=jpg&quality=75&cache=max&v=1",
             "link": "https://www.tynker.com/hour-of-code/puppy-adventure"
           },
           {
             "type": "card",
-            "description": "Bài 4: Barbie - click dòng này rồi chọn play-now",
+            "description": "4: Barbie",
             "imgLink": "https://www.tynker.com/image/hour-of-code/2017/barbie/barbie-pet-vet-1.png?width=964&height=538&mode=contain&format=jpg&quality=75&cache=max&v=1",
             "link": "https://www.tynker.com/hour-of-code/barbie-pet-vet"
           },
           {
             "type": "youtube",
-            "name": "Bài 5: DragonBlast - click dòng này rồi chọn play-now",
+            "name": "5: DragonBlast",
             "videoId": "SrnvvWDm73k",
             "link": "https://www.tynker.com/hour-of-code/dragon-blast"
           },
           {
             "type": "youtube",
-            "name": "Bài 6: DragonDash - click dòng này rồi chọn play-now",
+            "name": "6: DragonDash",
             "videoId": "vOsdfRbrNdk",
             "link": "https://www.tynker.com/hour-of-code/dragon-dash"
           }
